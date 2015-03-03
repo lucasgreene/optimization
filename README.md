@@ -1,4 +1,4 @@
-Some code written for class. Note: some code was given to us.
+Code written for class. Note: some code was given to us.
 
 
 There are 5 problems we solved using local search and random restarts. 
